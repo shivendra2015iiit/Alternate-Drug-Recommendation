@@ -12,6 +12,6 @@ I was provided with 2 hrs to complete this project. So the work shown in noteboo
 
 To use code you can download notebook install jupyter or ipython notebook in your PC and install all the imported libraries using
 
-pip install <name of library> 
+pip install \<name of library\> 
   or
-conda install <name of library>
+conda install \<name of library\>
